@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dcc054a15867bf448feb6ebee83369a, type: 3}
+  m_Name: PlayerHealthModel
+  m_EditorClassIdentifier: 
+  initHealth: 7
+  explosionPrefab: {fileID: 7982877613624020049, guid: d1f6266db5daa1d42a9f54728faecb80,
+    type: 3}
+  invulnarablePeriod: 2
